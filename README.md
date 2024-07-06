@@ -1,1 +1,1 @@
-Kangu Gifts websites made entirely of HTML 
+Kangu Gifts websites made entirely of HTML AND CSS
